@@ -1,12 +1,12 @@
 {
-    "version": "2.0.15",
+    "version": "2.0.16",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ackleymi/examples/releases/download/v2.0.15/qf_2.0.15_Windows_x86_64.tar.gz",
+            "url": "https://github.com/ackleymi/examples/releases/download/v2.0.16/qf_2.0.16_Windows_x86_64.tar.gz",
             "bin": [
                 "qf.exe"
             ],
-            "hash": "97911f92623f0cf0b9ec35ad5d52929f7d7f568db4cb99649c458472c7107592"
+            "hash": "ef9477394226710a0cfc7279a161aef5cc4cc2c0e19f213f3fe3bde76ef037f2"
         }
     },
     "homepage": "https://github.com/ackleymi/examples",
